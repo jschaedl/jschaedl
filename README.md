@@ -2,7 +2,7 @@
 
 I'm a freelance Software Developer based in Wuppertal. 
 
-- 🔎 I'm currently looking for **freelance projects** starting from **May 2023**. 
+- 🔎 I'm open to **freelance projects** and available from **July 2023**. 
 - 👨‍💻 I'm passionate about PHP, Symfony, RESTful APIs and everything related. Feel free to reach out if you want to talk.
 - ✅ I'm a [certified](https://connect.symfony.com/profile/jschaedl) Symfony Certified Developer.
 - 🔨 I try to [contribute](https://github.com/symfony/symfony/pulls/jschaedl) to Symfony as often as I can. 
