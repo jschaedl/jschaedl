@@ -1,6 +1,6 @@
 ## Hi, there! 👋 I'm Jan
 
-I'm a freelance Software Developer based in Wuppertal. 
+I'm a freelance Software Developer and Trainer based in Wuppertal. 
 
 - 🔎 I'm open to **freelance projects** and available from **July 2023**. 
 - 👨‍💻 I'm passionate about PHP, Symfony, RESTful APIs and everything related. Feel free to reach out if you want to talk.
